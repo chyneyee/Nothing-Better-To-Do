@@ -1,1 +1,1 @@
-All answers for UNIX scripting questions.
+A collection of answers for random Unix shell scripts exercises.
