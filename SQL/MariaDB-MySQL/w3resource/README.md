@@ -1,0 +1,10 @@
+# MYSQL Exercises
+
+Reference: https://www.w3resource.com/mysql-exercises/
+
+
+
+## Table of Contents
+
+### Data Manipulation Language (DML) & Data Definition Language (DDL)
+  * [MySQL Create Table statement](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/Create-Table)
