@@ -13,4 +13,4 @@ Reference: https://www.w3resource.com/mysql-exercises/
   * [MySQL Alter Table statement](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/Alter-Table)
 
 ### Exercises on HR Database
-  * [MySQL Basic SELECT statement]()
+  * [MySQL Basic SELECT statement](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-BasicSelect)
