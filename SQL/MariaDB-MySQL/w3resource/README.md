@@ -16,4 +16,4 @@ Reference: https://www.w3resource.com/mysql-exercises/
   * [MySQL Basic SELECT statement](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-BasicSelect)
   * [MySQL Restricting and Sorting Data](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-RestrictSorting)
   * [MySQL Aggregate Functions and Group by](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-AggregateGroupBy)
-  
+  * [MySQL Subqueries](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-Subqueries)
