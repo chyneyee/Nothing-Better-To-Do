@@ -18,3 +18,4 @@ Reference: https://www.w3resource.com/mysql-exercises/
   * [MySQL Aggregate Functions and Group by](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-AggregateGroupBy)
   * [MySQL Subqueries](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-Subqueries)
   * [MySQL Joins](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-Joins)
+  * [MySQL Date Time](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-DateTime)
