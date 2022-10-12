@@ -20,3 +20,7 @@ Reference: https://www.w3resource.com/mysql-exercises/
   * [MySQL Joins](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-Joins)
   * [MySQL Date Time](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-DateTime)
   * [MySQL String Functions](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-String)
+
+### Exercises on Northwind Database
+  * [Exercises on Products Table](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/NorthwindDB)
+ 
