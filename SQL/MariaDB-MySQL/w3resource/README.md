@@ -19,3 +19,4 @@ Reference: https://www.w3resource.com/mysql-exercises/
   * [MySQL Subqueries](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-Subqueries)
   * [MySQL Joins](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-Joins)
   * [MySQL Date Time](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-DateTime)
+  * [MySQL String Functions](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-String)
