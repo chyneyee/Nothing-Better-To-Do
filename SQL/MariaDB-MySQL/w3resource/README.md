@@ -1,6 +1,16 @@
+# SQL Exercises
+
+**Reference:** [SQL Exercises, Practice, Solution](https://www.w3resource.com/sql-exercises/index.php)
+
+* [SQL Retrieve data from tables](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-RetrieveData)
+
+
+
+---
+
 # MYSQL Exercises
 
-Reference: https://www.w3resource.com/mysql-exercises/
+**Reference:** [MySQL Exercises, Practice, Solution](https://www.w3resource.com/mysql-exercises/)
 
 
 
