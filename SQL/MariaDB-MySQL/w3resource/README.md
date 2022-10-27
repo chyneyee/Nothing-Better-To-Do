@@ -6,6 +6,7 @@
 * [SQL Boolean and Relational operators](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-BooleanRelational)
 * [SQL Wildcard and Special operators](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-WildcardSpecialOperators)
 * [SQL Aggregate Functions](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-FunctionsGroupBy)
+* [SQL Formatting query output](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-FormattingOutput)
 
 
 
