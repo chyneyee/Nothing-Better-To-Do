@@ -4,6 +4,7 @@
 
 * [SQL Retrieve data from tables](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-RetrieveData)
 * [SQL Boolean and Relational operators](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-BooleanRelational)
+* [SQL Wildcard and Special operators](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-WildcardSpecialOperators)
 
 
 
