@@ -8,6 +8,7 @@
 * [SQL Aggregate Functions](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-FunctionsGroupBy)
 * [SQL Formatting query output](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-FormattingOutput)
 * [SQL Quering on Multiple Tables](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-QueryingMultipleTables)
+* [FILTERING and SORTING on HR Database](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-FilteringSorting)
 
 
 
