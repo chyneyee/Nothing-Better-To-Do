@@ -9,4 +9,4 @@
 | Chapter | Title | Links |
 | :---: | ------------- | ------------- |
 | 1 | Introduction to Computers, Programs, and Java | [Exercise 1.1 - 1.13](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/Java/Intro-to-Java-Programming-Data-Structures/Chapter01) |
-|  |   |
+| 2 | Elementary Programming | [Exercise 2.1 - 2.23](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/Java/Intro-to-Java-Programming-Data-Structures/Chapter02)
