@@ -8,8 +8,8 @@
  * 				1 mile = 1.6 kilometers
  * 
  * Here is a sample run: 
- * Enter mile: 96
- * 96 mile is 153.6 kilometres
+ * Enter miles: 96
+ * 96 miles is 153.6 kilometres
  */
 package chapter02;
 
@@ -22,7 +22,7 @@ public class Exercise02_01
 		Scanner input = new Scanner(System.in);
 
 		// Prompt the user for input
-		System.out.println("Enter miles: ");
+		System.out.print("Enter miles: ");
 		double miles = input.nextDouble();
 
 		// Convert mile to kilometre
