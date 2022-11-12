@@ -32,7 +32,7 @@ public class Exercise02_09
 		double a = input.nextDouble();
 		
 		// Calculate the result	
-		double s = (u * t) + (a * t * t) /2;
+		double s = (u * t) + (a * t * t) / 2;
 		
 		// Display results
 		System.out.println("The distance covered is "+s);
