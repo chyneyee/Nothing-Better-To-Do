@@ -1,6 +1,3 @@
-package chapter02;
-import java.util.Scanner;
-
 /**
  * @author mychin
  * Exercise02_10.java 
@@ -20,6 +17,8 @@ import java.util.Scanner;
  * The energy needed is 1625484.0
  */
 
+package chapter02;
+import java.util.Scanner;
 
 public class Exercise02_10 
 {
