@@ -9,5 +9,5 @@
 
 | Chapter | Title | Links |
 | :---: | ------------- | ------------- |
-| 1 | A Taste of Py | [Exercise 1.3 - 1.5]() |
+| 1 | A Taste of Py | [Exercise 1.3 - 1.5](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/Python/Introducing-Python/Chapter01) |
 | 2 | []()
