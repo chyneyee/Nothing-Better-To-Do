@@ -11,6 +11,10 @@
 * [FILTERING and SORTING on HR Database](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-FilteringSorting)
 
 
+#### SQL JOINS
+* [SQL JOINS](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-Joins)
+
+
 
 ---
 
