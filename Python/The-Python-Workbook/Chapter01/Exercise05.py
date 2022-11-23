@@ -6,7 +6,7 @@
 # Your program should continue by computing and displaying the refund that will be received for returning those containers. 
 # Format the output so that it includes a dollar sign and two digits to the right of the decimal point.
 
-# Define constraints
+# Define the constants
 LESS_ONE_LITRE = 0.1
 MORE_ONE_LITRE = 0.25
 
