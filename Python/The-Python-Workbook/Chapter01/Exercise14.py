@@ -18,4 +18,4 @@ feetInput = feetInput * FOOT
 cm = (feetInput + inchesInput) * INCH
 
 # Display the result
-print("Your height is ",cm, "cm")
+print("Your height is",cm,"cm")
