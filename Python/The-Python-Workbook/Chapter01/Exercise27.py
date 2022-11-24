@@ -1,6 +1,7 @@
 # 25-11-2022 10:28 am
 # Exercise 27: When is Easter?
-# Write a program that implements the Anonymous Gregorian Computus algorithm to compute the date of Easter. Your program should read the year from the user and then display an appropriate message that includes the date of Easter in that year.
+# Write a program that implements the Anonymous Gregorian Computus algorithm to compute the date of Easter. 
+# Your program should read the year from the user and then display an appropriate message that includes the date of Easter in that year.
 
 import math
 
