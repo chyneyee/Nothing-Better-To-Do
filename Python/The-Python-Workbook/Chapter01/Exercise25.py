@@ -5,7 +5,8 @@
 # Then your program should display the equivalent amount of time in the form D:HH:MM:SS, where D, HH, MM, and SS represent days, hours, minutes 
 # and seconds respectively. 
 # The hours, minutes and seconds should all be formatted so that they occupy exactly two digits, with a leading 0 displayed if necessary.
-# Use your research skills determine what additonal character needs to be included in the format specifier so that leading zeros are used instead of leading spaces when a number is formatted to particular width.
+# Use your research skills determine what additonal character needs to be included in the format specifier so that leading zeros are used instead of 
+# leading spaces when a number is formatted to particular width.
 
 #Define constants
 SECONDS_PER_DAY = 86400
