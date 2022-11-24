@@ -9,7 +9,8 @@
 # Create a program that allows the user to enter the latitude and longitude of two points on the Earth in degrees. 
 # Your program should display the distance between the points, following the surface of the earth, in kilometers.
 # Hint: Python's trigonometric functions operate in radians. 
-# As a result, you will need to convert the user's input from degrees to radians before computing the distance with the formula discussed previously. The math module contains a function named radians which converts from degrees to radians.
+# As a result, you will need to convert the user's input from degrees to radians before computing the distance with the formula discussed previously. 
+# The math module contains a function named radians which converts from degrees to radians.
 
 import math
 
