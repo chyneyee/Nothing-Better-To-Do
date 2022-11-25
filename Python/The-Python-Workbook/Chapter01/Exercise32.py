@@ -14,7 +14,7 @@ digits %= 100
 third_digit = digits // 10
 digits %= 10
 fourth_digit = digits
-sum = first_digit + second_digit + third_digit + fourth_digit
+total = first_digit + second_digit + third_digit + fourth_digit
 
 # Display the result
 print("The sum for {} + {} + {} + {} is {}". format(first_digit,second_digit,third_digit,fourth_digit,sum))
