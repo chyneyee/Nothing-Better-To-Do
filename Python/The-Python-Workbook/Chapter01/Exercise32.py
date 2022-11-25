@@ -17,4 +17,4 @@ fourth_digit = digits
 total = first_digit + second_digit + third_digit + fourth_digit
 
 # Display the result
-print("The sum for {} + {} + {} + {} is {}". format(first_digit,second_digit,third_digit,fourth_digit,sum))
+print("The sum for {} + {} + {} + {} is {}". format(first_digit,second_digit,third_digit,fourth_digit,total))
