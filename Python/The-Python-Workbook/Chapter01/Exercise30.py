@@ -9,7 +9,7 @@ celsius = float(input("Enter the degrees in Celsius: "))
 
 # Calculate the conversion for the temperature
 fahrenheit = (celsius * 1.8) + 32
-kelvin = celsius +273.15
+kelvin = celsius + 273.15
 
 # Display the conversion result
 print("The {} celsius is equivalent to {} Fahrenheit.". format(celsius,fahrenheit))
