@@ -25,7 +25,3 @@ else:
 
 # Display the result
 print("The dog age in dog years is", dog_age)
-   
-
-
-
