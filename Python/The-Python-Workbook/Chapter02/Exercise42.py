@@ -9,7 +9,8 @@
 # G4      392.00
 # A4      440.00
 # B4      493.88
-# Begin by writing a program that reads the name of a note from the user and displays the note's frequency. Your program should support all of the notes listed previously.
+# Begin by writing a program that reads the name of a note from the user and displays the note's frequency. 
+# Your program should support all of the notes listed previously.
 
 # Define constants
 C4_FREQUENCY = 261.63
