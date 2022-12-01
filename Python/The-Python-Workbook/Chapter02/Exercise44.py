@@ -1,6 +1,7 @@
 # 01-12-2022 1:42 pm
 # Exercise 44: Faces of Money
-# It is common for images of a country’s previous leaders, or other individuals of historical significance, to appear on its money. # The individuals that appear on banknotes in the United States are listed in below.
+# It is common for images of a country’s previous leaders, or other individuals of historical significance, to appear on its money. 
+# The individuals that appear on banknotes in the United States are listed in below.
 # Individual            Amount
 # George Washington       $1
 # Thomas Jefferson        $2
