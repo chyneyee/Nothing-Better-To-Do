@@ -8,7 +8,8 @@
 # 0.0                 Unacceptable performance
 # 0.4                 Acceptable performance
 # 0.6 or more         Meritorious performance
-# Write a program that reads a rating from the user and indicates whether the performance was unacceptable, acceptable or meritorious. The amount of the employee’s raise should also be reported. Your program should display an appropriate error message if an invalid rating is entered.
+# Write a program that reads a rating from the user and indicates whether the performance was unacceptable, acceptable or meritorious. 
+# The amount of the employee’s raise should also be reported. Your program should display an appropriate error message if an invalid rating is entered.
 
 # Prompts user for input
 rating = float(input("Enter the performance rating (e.g. 0.0, 0.6): "))
