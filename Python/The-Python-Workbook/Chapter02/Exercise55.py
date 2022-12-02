@@ -9,7 +9,8 @@
 # Yellow                  570 to less than 590
 # Orange                  590 to less than 620
 # Red                     620 to 750
-# Write a program that reads a wavelength from the user and reports its colour. Display an appropriate error message if the wavelength entered by the user is outside of the visible spectrum.
+# Write a program that reads a wavelength from the user and reports its colour. 
+# Display an appropriate error message if the wavelength entered by the user is outside of the visible spectrum.
 
 # Prompts for input from user
 wavelength = float(input("Enter the wavelength (nm): "))
