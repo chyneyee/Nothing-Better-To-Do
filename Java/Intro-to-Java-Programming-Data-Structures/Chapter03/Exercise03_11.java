@@ -55,11 +55,8 @@ public class Exercise03_11
 		case 11: System.out.println("November " + year + " has 30 days");
 				break;
 		case 12: System.out.println("December " + year + " has 31 days");
-				break;
-			
-		}
-		
-		
+				break;			
+		}	
 
 	}
 
