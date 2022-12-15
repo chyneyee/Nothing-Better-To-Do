@@ -31,9 +31,6 @@ public class Exercise03_17
 		Scanner input = new Scanner(System.in);
 		System.out.print("scissor (0), rock (1), paper (2): ");
 		int choice = input.nextInt();
-
-		//if (choice == 0 || choice == 1 || choice == 2) 
-		//{
 			// Display the result
 			switch (randNum) 
 			{
@@ -60,14 +57,7 @@ public class Exercise03_17
 				else if (choice == 2)
 					System.out.print("The computer is paper. You are paper too. It is a draw");
 				break;
-
 			}
-		//}
-		//else 
-		//{
-		//	System.out.println("Invalid input");
-		//	System.exit(0);
-		//}
 
 	}
 
