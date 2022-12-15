@@ -45,7 +45,7 @@ public class Exercise02_08
 		long totalHours = totalMinutes / 60;
 		
 		// Compute the current hour
-		long currentHour = (totalHours + timezoneOffset) % 24;
+		long currentHour = (totalHours % 24) + timezoneOffset;
 		
 		// Display results
 		System.out.println("The current time is "+currentHour +":" +currentMinute +":" +currentSecond);
