@@ -39,7 +39,7 @@ public class Exercise03_27
 		double x3 = 0;
 		double y3 = 100;
 		
-		// Calculate the area of triangle
+	// Calculate the area of triangle
         double A = Math.abs((x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2)) / 2);
 
         // Calculate area for the entered point and BC
