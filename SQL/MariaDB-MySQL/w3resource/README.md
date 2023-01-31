@@ -12,7 +12,7 @@
 
 
 #### SQL JOINS
-* [SQL JOINS](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-Joins)
+* [SQL JOINS](https://github.com/chyneyee/Nothing-Better-To-Do/tree/401b31e8153c1e35b4a888bf9e8d0ed213ba4665/SQL/MariaDB-MySQL/w3resource/SQL-Joins)
 * [SQL JOINS on HR Database](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-Joins)
 
 #### SQL SUBQUERIES
