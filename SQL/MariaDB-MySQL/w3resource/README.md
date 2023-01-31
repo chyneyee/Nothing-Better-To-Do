@@ -17,6 +17,7 @@
 
 #### SQL SUBQUERIES
 * [SQL SUBQUERIES](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-Subqueries)
+* [SQL SUBQUERIES on HR Database](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/HRDB-Subqueries)
 
 
 
