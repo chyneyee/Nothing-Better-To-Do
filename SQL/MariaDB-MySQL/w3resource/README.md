@@ -22,6 +22,10 @@
 ### SQL UNION
 * [SQL UNION](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-Union)
 
+### SQL VIEW
+* [SQL VIEW](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-View)
+
+### Movie Database
 
 
 ---
