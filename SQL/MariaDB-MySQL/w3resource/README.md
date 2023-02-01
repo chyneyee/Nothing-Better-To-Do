@@ -26,6 +26,7 @@
 * [SQL VIEW](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/SQL-View)
 
 ### Movie Database
+* [BASIC Queries](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/MovieDB)
 
 
 ---
