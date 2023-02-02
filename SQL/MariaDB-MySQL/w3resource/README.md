@@ -28,8 +28,9 @@
 ### Movie Database
 * [BASIC Queries](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/MovieDB)
 * [SUBQUERIES Queries](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/MovieDB)
+* [JOINS Queries](https://github.com/chyneyee/Nothing-Better-To-Do/tree/main/SQL/MariaDB-MySQL/w3resource/MovieDB)
 
-
+#### Note: I gave up remaining exercises for other databases.
 ---
 
 # MYSQL Exercises
