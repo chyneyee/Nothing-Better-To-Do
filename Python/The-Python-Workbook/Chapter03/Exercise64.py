@@ -14,5 +14,3 @@ print("Price | Discount Amount | New Price")
 for price in org_price:
     discount_amt = discount * price
     print("$",price, " | ", "${:.2f}".format(discount_amt), " | ","${:.2f}".format(price-discount_amt))
- 
-
