@@ -6,7 +6,7 @@
 # Hint: Because the 0 marks the end of the input it should not be included in the average.
 
 # Read the first value from the user
-value=int(input("Enter a value: "))
+value = int(input("Enter a value: "))
 sum = 0.00
 count = 0
 
