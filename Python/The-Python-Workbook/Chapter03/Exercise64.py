@@ -5,9 +5,11 @@
 # Write a program that uses a loop to generate this table, showing the original price, the discount amount, and the new price for purchases of $4.95, $9.95, $14.95, $19.95 and $24.95.
 # Ensure that the discount amounts and the new prices are rounded to 2 decimal places when they are displayed.
 
+# Create a list for the original price
 org_price = [4.95, 9.95, 14.95, 19.95, 24.95]
 discount = 0.6
 
+# Print the table for original price, discount amount and the new price.
 print("Price | Discount Amount | New Price")
 for price in org_price:
     discount_amt = discount * price
